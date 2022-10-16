@@ -10,6 +10,7 @@ body{
 
     background-image: url(.././images/question-marks.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
  overflow: hidden;
 
 
